@@ -1,7 +1,13 @@
-# Aryan Modi — Personal Website
+# Aryan Modi — Personal Website V4
 
-Personal portfolio of Aryan Modi — Computer Science graduate, entrepreneur and Cloud & DevOps enthusiast.
+Engineer · Entrepreneur · Builder
 
 🌐 https://www.aryanmodi.com
 
-Built with HTML, CSS, JavaScript, GitHub and Vercel.
+## Stack
+HTML5 · CSS3 · JavaScript · GitHub · Vercel
+
+## Sections
+About · Education · Technology · Modi Traders · Projects · Contact
+
+> Public repository: do not add private family, financial, identity or marriage information.
