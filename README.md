@@ -1,10 +1,19 @@
-# Aryan Modi — Personal Website V6
+# Aryan Modi — Personal Website V7
 
 DevOps / Cloud Engineer · Computer Science (Cloud Computing) · Entrepreneurial / Operations Experience
 
 🌐 https://www.aryanmodi.com
 
-V6 is based on the recruiter resume supplied by Aryan Modi. The included `Aryan_Modi_Resume.pdf` is the supplied resume used as the source for the professional profile, skills, experience, projects, education and certifications.
+V7 is a visual polish of V6. Professional profile content remains based on the supplied recruiter resume. The included `Aryan_Modi_Resume.pdf` is the resume used as the source for the professional profile, skills, experience, projects, education and certifications.
+
+## V7 updates
+- Premium responsive navigation with mobile menu
+- Scroll progress indicator and active section navigation
+- Subtle reveal animations with reduced-motion support
+- Skills, projects and experience cards refined for recruiter scanning
+- Improved spacing, typography, hover states and visual hierarchy
+- Resume download available from hero and contact sections
+- Mobile layout refinements
 
 ## Contact
 - Email: aryanmodi1082@gmail.com
